@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.roboter5123</groupId>
-    <artifactId>PermGuard</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <artifactId>permguard</artifactId>
+    <version>0.1.1</version>
     <packaging>jar</packaging>
 
-    <name>PermGuard</name>
+    <name>permguard</name>
 
     <properties>
         <java.version>25</java.version>
